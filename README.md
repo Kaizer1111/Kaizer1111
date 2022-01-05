@@ -6,7 +6,7 @@
 	
 </div>
 
-[![Discord Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/ksk)](https://discord.gg/ksk)
+[![Discord Badge](http://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=github&link=https://discord.gg/zCy2Mgx9Ra)](https://discord.gg/zCy2Mgx9Ra)
 	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZGCWv7ncrHt2tlXa0y92rA)](https://www.youtube.com/channel/UCZGCWv7ncrHt2tlXa0y92rA)
 	
